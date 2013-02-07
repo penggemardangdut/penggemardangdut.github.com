@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[A Penggemar Dangdut Blog]]></title>
-  <link href="http://penggemardangdut.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Random | A Penggemar Dangdut Blog]]></title>
+  <link href="http://penggemardangdut.github.com/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://penggemardangdut.github.com/"/>
   <updated>2013-02-07T10:24:23+07:00</updated>
   <id>http://penggemardangdut.github.com/</id>
